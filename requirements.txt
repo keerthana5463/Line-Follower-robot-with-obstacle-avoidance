@@ -1,0 +1,12 @@
+## Hardware Requirements
+- Arduino Uno
+- L298N Motor Driver
+- DC Motors (2)
+- IR Sensors (2)
+- Ultrasonic Sensor (HC-SR04)
+- Robot Chassis
+- Battery
+- Jumper Wires
+
+## Software Requirements
+- Arduino IDE
