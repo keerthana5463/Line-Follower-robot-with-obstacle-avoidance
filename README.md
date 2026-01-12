@@ -29,3 +29,14 @@ Open the Arduino IDE and load the .ino file.
 Select the correct board and COM port.
 Upload the code to the Arduino.
 Power the robot and place it on a line track.
+
+
+Motor Driver Pin	Arduino Pin	Purpose
+ENA	10	Speed control for Motor A (PWM)
+IN1	9	Direction control for Motor A
+IN2	8	Direction control for Motor A
+IN3	7	Direction control for Motor B
+IN4	6	Direction control for Motor B
+ENB	5	Speed control for Motor B (PWM)
+VCC / 12V	Battery +	Motor power supply
+GND	Arduino GND	Common ground
